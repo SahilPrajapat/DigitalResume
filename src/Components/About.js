@@ -11,7 +11,7 @@ const About = ({ data }) => {
     var zip = data.address.zip;
     var phone = data.phone;
     var email = data.email;
-    var resumeDownload = data.resumedownload;
+    // var resumeDownload = data.resumedownload;
   }
 
   return (
@@ -47,7 +47,7 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-                <a href={'./resume.pdf'} target="_blank" download className="button">
+                <a href={'./resume.pdf'} target="_blank" rel="noreferrer" download className="button">
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>

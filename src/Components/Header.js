@@ -1,5 +1,5 @@
 import React from "react";
-import TypeWriter from "react-typewriter";
+// import TypeWriter from "react-typewriter";
 import Typewriter from 'typewriter-effect';
 
 const Header = ({ data }) => {

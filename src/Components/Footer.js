@@ -22,9 +22,9 @@ const Footer = ({ data }) => {
           <ul className="copyright">
             <li>
               Made by{" "}
-              <a title="PAPA">
+              <p title="PAPA">
                 Sahil
-              </a>
+              </p>
             </li>
           </ul>
         </div>
