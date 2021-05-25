@@ -1,0 +1,97 @@
+{
+  "main": {
+    "name": "Sahil",
+    "occupation": "Developer",
+    "description": "I eat, sleep and breathe Code",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Sahil! ",
+    "contactmessage": "Get in touch with me to be a part of my fam!",
+    "email": "sahil9873.sk@gmail.com",
+    "phone": "+91 9971414014",
+    "address": {
+      "area": "Kapashera",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zip": "110037"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sahilparjapat007/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sahil-prajapat-7b574119b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sahil_prajapat__/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/SahilPrajapat",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Guru Tegh Bahadur Institute of Technology",
+        "degree": "Bachelor's Degree, Electronic and Communication",
+        "graduated": "July 2022",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "MERN Stack",
+        "level": "70%"
+      },
+      {
+        "name": "DS/ALGO",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Tinder Clone (React JS)",
+        "category": "",
+        "image": "tinder.png",
+        "url": "https://tinder-clone-7dcf8.web.app"
+      },
+      {
+        "title": "Instagram Clone (React JS)",
+        "category": "",
+        "image": "insta.png",
+        "url": "https://insta-clone-react-b6359.web.app"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon.png",
+        "url": "https://amazon-clone-rose.vercel.app/"
+      }
+    ]
+  }
+ }
