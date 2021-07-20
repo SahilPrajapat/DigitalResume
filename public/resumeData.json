@@ -91,6 +91,12 @@
         "category": "",
         "image": "amazon.png",
         "url": "https://amazon-clone-git-main-sahilprajapat.vercel.app/"
+      },
+      {
+        "title": "Google Docs (Next JS)",
+        "category": "",
+        "image": "googleDocs.png",
+        "url": "https://google-docs-ashy.vercel.app/"
       }
     ]
   }
